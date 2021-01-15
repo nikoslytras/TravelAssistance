@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        android:orientation="vertical"
+        android:id="@+id/ITMAIN"
+        >
+
+
+        <Button
+            android:id="@+id/translate_eng"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:padding="16dp"
+            android:text="Μεταφρασεις."
+            android:drawableLeft="@drawable/baseline_translate_black_18dp"
+            android:textSize="24sp"
+            android:layout_weight="1"
+            android:onClick="opentranslates"
+
+            />
+
+        <Button
+            android:id="@+id/phones"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:padding="16dp"
+            android:text="χρήσιμα τηλέφωνα."
+            android:drawableLeft="@drawable/baseline_phone_black_18dp"
+            android:textSize="24sp"
+            android:layout_weight="1"
+            android:onClick="openphones"
+
+            />
+
+        <Button
+            android:id="@+id/places"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:padding="16dp"
+            android:text="Μέρη που αξίζει να δεις."
+            android:drawableLeft="@drawable/baseline_person_pin_black_18dp"
+            android:textSize="24sp"
+            android:layout_weight="1"
+            android:onClick="openlocations"
+
+            />
+
+        <Button
+            android:id="@+id/important_places"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:padding="16dp"
+            android:text="Σημαντικά μερη"
+            android:drawableLeft="@drawable/marker_black_18dp"
+            android:textSize="24sp"
+            android:layout_weight="1"
+            android:onClick="openimportantlocations"
+
+            />
+
+
+        <Button
+            android:id="@+id/perigrafh"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:padding="16dp"
+            android:text="Περιγραφή"
+            android:textSize="24sp"
+            android:layout_weight="1"
+            android:onClick="openperigrafh"
+            />
+
+
+
+
+
+
+
+    </LinearLayout>

@@ -1,0 +1,515 @@
+<resources>
+    <string name="app_name">Travel Assistance</string>
+    //xairetismoi_ENG
+    <string name="ENG1">Good morning</string>
+    <string name="ENG2">Καλημέρα</string>
+    <string name="ENG3">Γκούντ μόρνινγκ</string>
+
+    <string name="ENG4">Good afternoon</string>
+    <string name="ENG5">Καλό Απόγευμα</string>
+    <string name="ENG6">Γκούντ άφτερνουν</string>
+
+    <string name="ENG7">Hello / Hi / Hey</string>
+    <string name="ENG8">Γειά</string>
+    <string name="ENG9">Χελόου / χάι / χέι</string>
+
+    <string name="ENG10">How are you?</string>
+    <string name="ENG11">Πώς είσαι;</string>
+    <string name="ENG12">χάου άρ γιού</string>
+
+    <string name="ENG13">How are you?</string>
+    <string name="ENG14">Πώς είσαι;</string>
+    <string name="ENG15">χάου άρ γιού</string>
+
+    <string name="ENG16">How is it going?</string>
+    <string name="ENG17">Πώς πάει?</string>
+    <string name="ENG18">χάου ίτσ γκόινγκ</string>
+
+    //aerodromio_ENG
+
+    <string name="ENG19">I would like</string>
+    <string name="ENG20">Θα ήθελα</string>
+    <string name="ENG21">άι γούντ λάικ</string>
+
+    <string name="ENG22">How much does the ... cost?</string>
+    <string name="ENG23">Πόσο κοστίζει το ...</string>
+    <string name="ENG24">Χάου μάτσ ντάζ δε ... κόστ</string>
+
+    <string name="ENG25">What time is my flight?</string>
+    <string name="ENG26">Τι ώρα είναι η πτήση μου;</string>
+    <string name="ENG27">Γουάτ τάιμ ίς μάι φλάιτ</string>
+
+    <string name="ENG28">What airline am I flying?</string>
+    <string name="ENG29">Με ποια αεροπορική εταιρεία πετάω;</string>
+    <string name="ENG30">γουάτ έιρ λάιν άμ άι φλάινγκ</string>
+
+    <string name="ENG31">Where is my gate?</string>
+    <string name="ENG32">Πού είναι η πύλη μου;</string>
+    <string name="ENG33">Γουέρ ίς μάι γκέιτ</string>
+
+    <string name="ENG34">Where is the restroom?</string>
+    <string name="ENG35">Πού είναι η τουαλέτα;</string>
+    <string name="ENG36">Γουέρ ίς δε ρέστ ρούμ</string>
+
+    //sthn_polh_ENG
+
+    <string name="ENG37">Where can I find a grocery store?</string>
+    <string name="ENG38">Πού μπορώ να βρω ένα παντοπωλείο;</string>
+    <string name="ENG39">Γουέρ κάν άι φλαιντ ε γκρόσερι στόρ</string>
+
+    <string name="ENG40">Where is the hospital?</string>
+    <string name="ENG41">Πού είναι το νοσοκομείο?</string>
+    <string name="ENG42">Γουέρ ίς δε χόσπιταλ</string>
+
+    <string name="ENG43">Where can I find a restaurant?</string>
+    <string name="ENG44">Πού μπορώ να βρω εστιατόριο;</string>
+    <string name="ENG45">Γουέρ κάν άι φάιντ ε ρέστοραντ</string>
+
+    <string name="ENG46">Where is the bank?</string>
+    <string name="ENG47">Που ειναι η τράπεζα?</string>
+    <string name="ENG48">Γουέρ ίς δε μπάνκ</string>
+
+    <string name="ENG49">How do you get to ...</string>
+    <string name="ENG50">Πώς πας στο ...</string>
+    <string name="ENG51">χάου ντού γιού γκέτ τού ...</string>
+
+    <string name="ENG52">How far is it to ...</string>
+    <string name="ENG53">Πόσο μακριά είναι ...</string>
+    <string name="ENG54">χάου φάρ ίς ίτ του ...</string>
+
+    //provlimata_ENG
+
+    <string name="ENG55">I have lost my passport</string>
+    <string name="ENG56">Έχω χάσει το διαβατήριό μου</string>
+    <string name="ENG57">άι χάβ λόστ μάι πάστ πόρτ</string>
+
+    <string name="ENG58">Someone stole my money</string>
+    <string name="ENG59">Κάποιος έκλεψε τα χρήματά μου</string>
+    <string name="ENG60">σάμ ουάν στόλ μάι μόνει</string>
+
+    <string name="ENG61">Help</string>
+    <string name="ENG62">Βοήθεια</string>
+    <string name="ENG63">χέλπ</string>
+
+    //xairetismoi_FRA
+
+    <string name="FRA1">Bonjour</string>
+    <string name="FRA2">Καλημέρα</string>
+    <string name="FRA3">Μπονζούγ</string>
+
+    <string name="FRA4">Bonne après-midi</string>
+    <string name="FRA5">Καλό απόγευμα</string>
+    <string name="FRA6">Μπόν απρέ μιντί</string>
+
+    <string name="FRA7">Bonjour / Salut / Hé</string>
+    <string name="FRA8">Γειά</string>
+    <string name="FRA9">Μπονζούγ / σαλού / έ</string>
+
+    <string name="FRA10">Comment vas-tu?</string>
+    <string name="FRA11">Πώς είσαι</string>
+    <string name="FRA12">κόμο βά του</string>
+
+    <string name="FRA13">Comment ça se passe?</string>
+    <string name="FRA14">Πώς πάει</string>
+    <string name="FRA15">κόμο σά σέ πάς</string>
+
+
+    //aerodromia_FRA
+
+    <string name="FRA16">Je voudrais</string>
+    <string name="FRA17">θα ήθελα</string>
+    <string name="FRA18">ζε βουντγέ</string>
+
+    <string name="FRA19">Quelle heure est mon vol?</string>
+    <string name="FRA20">κέλ έρ μο βόλ</string>
+    <string name="FRA21">Τι ώρα είναι η πτήση μου;</string>
+
+    <string name="FRA22">Quelle compagnie aérienne suis-je en train de piloter?</string>
+    <string name="FRA23">κέλ κομπανί αεριέν σουίζ εν τγέν ντέ πιλοτέ</string>
+    <string name="FRA24">Με ποια αεροπορική εταιρεία πετάω;</string>
+
+    <string name="FRA25">Où est ma porte?</string>
+    <string name="FRA26">ού έγ μα πόγ</string>
+    <string name="FRA27">Πού είναι η πύλη μου</string>
+
+    <string name="FRA28">Où sont les toilettes?</string>
+    <string name="FRA29">ού σόν λε τοιλέ</string>
+    <string name="FRA30">Που είναι οι τουαλέτα?</string>
+
+    <string name="FRA31">Combien coûte le ...</string>
+    <string name="FRA32">κόμμπγιέ κουτ λέ ...</string>
+    <string name="FRA33">Πόσο κοστίζει το ...</string>
+
+    //sthn_polh_FRA
+
+    <string name="FRA34">Où puis-je trouver une épicerie?</string>
+    <string name="FRA35">ού πίς τρουβέ ούν επισέ</string>
+    <string name="FRA36">Πού μπορώ να βρω ένα παντοπωλείο;</string>
+
+    <string name="FRA37">Où est l hôpital?</string>
+    <string name="FRA38">ού έλ οπιτάλ</string>
+    <string name="FRA39">Πού είναι το νοσοκομείο?</string>
+
+    <string name="FRA40">Où puis-je trouver un restaurant?</string>
+    <string name="FRA41">ού πρίς τρουβέ ε ρεστοράν</string>
+    <string name="FRA42">Πού μπορώ να βρω δείπνο;</string>
+
+    <string name="FRA43">Où est la banque?</string>
+    <string name="FRA44">ού ε λά βόν</string>
+    <string name="FRA45">Που ειναι η ΤΡΑΠΕΖΑ?</string>
+
+    <string name="FRA46">Comment vous rendre à ...?</string>
+    <string name="FRA47">κό μόν βού ονγά</string>
+    <string name="FRA48">Πως να πάω ...?</string>
+
+    <string name="FRA49">Jusqu où ...?</string>
+    <string name="FRA50">ζεσ κού</string>
+    <string name="FRA51">Πόσο μακριά ...</string>
+
+    //provlimata_FRA
+
+    <string name="FRA52">J ai perdu mon passeport</string>
+    <string name="FRA53">ζεσ περ ντού μόν πέστο</string>
+    <string name="FRA54">Έχασα το διαβατήριό μου</string>
+
+    <string name="FRA55">Quelqu un a volé mon argent</string>
+    <string name="FRA56">κέλ έν α βολέ μούν ερζό</string>
+    <string name="FRA57">Κάποιος έκλεψε τα χρήματά μου</string>
+
+    <string name="FRA58">Aide!</string>
+    <string name="FRA59">έντ</string>
+    <string name="FRA60">Βοήθεια!</string>
+
+    //xairetismoi_ITA
+
+    <string name="ITA1">Buongiorno</string>
+    <string name="ITA2">μποντζόρνο</string>
+    <string name="ITA3">Καλημέρα</string>
+
+    <string name="ITA4">Buon pomeriggio</string>
+    <string name="ITA5">μπουόν πομερίτσο</string>
+    <string name="ITA6">Καλό απόγευμα</string>
+
+    <string name="ITA7">Ciao / Ehi</string>
+    <string name="ITA8">τσάο / έι</string>
+    <string name="ITA9">Γειά</string>
+
+    <string name="ITA10">Come stai?</string>
+    <string name="ITA11">Κόμε στάι</string>
+    <string name="ITA12">Πώς είσαι;</string>
+
+    <string name="ITA13">Come va?</string>
+    <string name="ITA14">Κόμε βά</string>
+    <string name="ITA15">Πώς είσαι;</string>
+
+
+    //aerodromia_ITA
+
+    <string name="ITA16">mi piacerebbe</string>
+    <string name="ITA17">μί πιατσαρέπε</string>
+    <string name="ITA18">θα ήθελα</string>
+
+    <string name="ITA19">A che ora è il mio volo?</string>
+    <string name="ITA20">ά κέ όρα έλ μί βόλο</string>
+    <string name="ITA21">Τι ώρα είναι η πτήση μου;</string>
+
+    <string name="ITA22">Quale compagnia aerea sto volando?</string>
+    <string name="ITA23">κουάλε κομπανία αέρεα στό βολάντο</string>
+    <string name="ITA24">Με ποια αεροπορική εταιρεία πετάω;</string>
+
+    <string name="ITA25">Dov è il mio cancello?</string>
+    <string name="ITA26">ντοβέλ μίο κατσέλο</string>
+    <string name="ITA27">Πού είναι η πύλη μου;</string>
+
+    <string name="ITA28">Dov è il bagno?</string>
+    <string name="ITA29">ντοβέλ μπάνιο</string>
+    <string name="ITA30">Που είναι η τουαλέτα?</string>
+
+    <string name="ITA31">Quanto costa la ...</string>
+    <string name="ITA32">κουάντο κόστα λά</string>
+    <string name="ITA33">Πόσο κοστίζει το ...</string>
+
+    //sthn_polh_ITA
+
+    <string name="ITA34">Dove posso trovare un negozio di alimentari?</string>
+    <string name="ITA35">ντόβε πόστο τροπάρε ούν νεγκότσιο ντιαλιμετάρι</string>
+    <string name="ITA36">Πού μπορώ να βρω ένα παντοπωλείο;</string>
+
+    <string name="ITA37">Dov è l ospedale?</string>
+    <string name="ITA38">ντοβέλ χοσπιτάλε</string>
+    <string name="ITA39">Πού είναι το νοσοκομείο;</string>
+
+    <string name="ITA40">Dove posso trovare un ristorante?</string>
+    <string name="ITA41">ντόβε πόστο τροπάρε ούν ρεστοράντε</string>
+    <string name="ITA42">Πού μπορώ να βρω εστιατόριο;</string>
+
+    <string name="ITA43">Dov è la Banca?</string>
+    <string name="ITA44">ντοβέλ λα μπάνκα</string>
+    <string name="ITA45">Που ειναι η ΤΡΑΠΕΖΑ?</string>
+
+    <string name="ITA46">Come si arriva a ...?</string>
+    <string name="ITA47">κόμε σι αρίβα</string>
+    <string name="ITA48">Πώς να πάω ...?</string>
+
+    <string name="ITA49">Quanto manca per ...?</string>
+    <string name="ITA50">κουάντο μάνκα πέρ</string>
+    <string name="ITA51">Πόσο μακριά είναι ...?</string>
+
+    //provlimata_ITA
+
+    <string name="ITA52">Ho perso il mio passaporto</string>
+    <string name="ITA53">χό πέρσο ίλ μίο ππασαπόρτο</string>
+    <string name="ITA54">Έχω χάσει το διαβατήριό μου</string>
+
+    <string name="ITA55">Qualcuno ha rubato i miei soldi.</string>
+    <string name="ITA56">κολκούνο ρουμπατί ι μιέλ σόλντι</string>
+    <string name="ITA57">Κάποιος έκλεψε τα χρήματά μου</string>
+
+    <string name="ITA58">Aiuto!</string>
+    <string name="ITA59">αιούτο</string>
+    <string name="ITA60">Βοήθεια!</string>
+
+
+    //locations_ENG
+    <string name="LOCE1">Stonehenge</string>
+    <string name="LOCE2">https://www.google.com/maps/place/%CE%A3%CF%84%CF%8C%CE%BF%CF%85%CE%BD%CF%87%CE%B5%CE%BD%CF%84%CE%B6/@51.1305257,-1.9005494,12z/data=!4m8!1m2!2m1!1sstonehenge!3m4!1s0x4873e63b850af611:0x979170e2bcd3d2dd!8m2!3d51.1788856!4d-1.8262196</string>
+
+    <string name="LOCE3">Greenwich</string>
+    <string name="LOCE4">https://www.google.com/maps/place/Greenwich,+%CE%9B%CE%BF%CE%BD%CE%B4%CE%AF%CE%BD%CE%BF,+%CE%97%CE%BD%CF%89%CE%BC%CE%AD%CE%BD%CE%BF+%CE%92%CE%B1%CF%83%CE%AF%CE%BB%CE%B5%CE%B9%CE%BF/@51.487397,-0.0304748,13z/data=!3m1!4b1!4m5!3m4!1s0x47d8a9cea79975f3:0x1470a7a162e4ca6c!8m2!3d51.4933675!4d0.0098214</string>
+
+    <string name="LOCE5">Chinatown</string>
+    <string name="LOCE6">https://www.google.com/maps/place/Chinatown+Gate/@51.5110082,-0.1318212,15z/data=!4m5!3m4!1s0x0:0x88886502d7a9257d!8m2!3d51.5110082!4d-0.1318212</string>
+
+    <string name="LOCE7">Κάστρο Combe</string>
+    <string name="LOCE8">https://www.google.com/maps/place/Castle+Combe,+Chippenham,+%CE%97%CE%BD%CF%89%CE%BC%CE%AD%CE%BD%CE%BF+%CE%92%CE%B1%CF%83%CE%AF%CE%BB%CE%B5%CE%B9%CE%BF/@51.4923937,-2.2347677,16z/data=!3m1!4b1!4m5!3m4!1s0x4871775f9f51c6c5:0x454c1097bc0d7d3!8m2!3d51.4933701!4d-2.2289226</string>
+
+    <string name="LOCE9">Πόλη Bath</string>
+    <string name="LOCE10">https://www.google.com/maps/place/%CE%9C%CF%80%CE%B1%CE%B8,+%CE%97%CE%BD%CF%89%CE%BC%CE%AD%CE%BD%CE%BF+%CE%92%CE%B1%CF%83%CE%AF%CE%BB%CE%B5%CE%B9%CE%BF/data=!4m2!3m1!1s0x487178a6743ee12d:0x138b27d0d66d9a09?sa=X&amp;ved=2ahUKEwj5kOjzvrnqAhVHnaQKHfGUBR0Q8gEwDHoECBcQBg</string>
+
+    <string name="LOCE11">Κτήμα Stourhead</string>
+    <string name="LOCE12">https://www.google.com/maps/search/%CE%BA%CF%84%CE%AE%CE%BC%CE%B1+Stourhead/@51.1058565,-2.3379762,14z/data=!3m1!4b1</string>
+
+    <string name="LOCE13">Gateshead Millennium Bridge</string>
+    <string name="LOCE14">https://www.google.com/maps/place/Gateshead+Millennium+Bridge/@54.9698599,-1.5991951,15z/data=!4m2!3m1!1s0x0:0x362825bc9e718b83?sa=X&amp;ved=2ahUKEwiXkuP-v7nqAhUsIcUKHWvcDi8Q_BIwJ3oECBkQCA</string>
+
+    <string name="LOCE15">Cotswolds</string>
+    <string name="LOCE16">https://www.google.com/maps/place/Cotswolds+AONB/@51.8610688,-1.8784829,12z/data=!4m5!3m4!1s0x0:0x64e7432db81f3835!8m2!3d51.8330311!4d-1.8433086</string>
+
+    <string name="LOCE17">Κάστρο του Ντόβερ</string>
+    <string name="LOCE18">https://www.google.com/maps/place/Dover+Castle/@51.128771,1.3212023,17z/data=!3m1!4b1!4m5!3m4!1s0x47dea4d6248656bf:0xd37270e9b0838a2c!8m2!3d51.128771!4d1.323391</string>
+
+    <string name="LOCE19">Rievaulx Abbey</string>
+    <string name="LOCE20">https://www.google.com/maps/place/Rievaulx+Abbey/@54.2572964,-1.1174486,15z/data=!4m5!3m4!1s0x0:0xb49380eb8f6887a4!8m2!3d54.2572964!4d-1.1174486</string>
+
+    //locations_FRA
+
+    <string name="LOCF1">Πύργος του Άιφελ</string>
+    <string name="LOCF2">https://www.google.com/maps/place/%CF%80%CF%8D%CF%81%CE%B3%CE%BF%CF%82+%CF%84%CE%BF%CF%85+%CE%91%CE%90%CF%86%CE%B5%CE%BB/@48.8583701,2.2944813,15z/data=!4m5!3m4!1s0x0:0x8ddca9ee380ef7e0!8m2!3d48.8583701!4d2.2944813</string>
+
+    <string name="LOCF3">Μουσείο λούβρου</string>
+    <string name="LOCF4">https://www.google.com/maps/place/%CE%9C%CE%BF%CF%85%CF%83%CE%B5%CE%AF%CE%BF+%CF%84%CE%BF%CF%85+%CE%9B%CE%BF%CF%8D%CE%B2%CF%81%CE%BF%CF%85/@48.8606111,2.337644,15z/data=!4m5!3m4!1s0x0:0xb975fcfa192f84d4!8m2!3d48.8606111!4d2.337644</string>
+
+    <string name="LOCF5">Πλατεία Κονκόρντ</string>
+    <string name="LOCF6">https://www.google.com/maps/place/%CE%A0%CE%BB%CE%B1%CF%84%CE%B5%CE%AF%CE%B1+%CE%9A%CE%BF%CE%BD%CE%BA%CF%8C%CF%81%CE%BD%CF%84/@48.8656331,2.3212357,15z/data=!4m5!3m4!1s0x0:0x18030de10e25ab2c!8m2!3d48.8656331!4d2.3212357</string>
+
+    <string name="LOCF7">Πάρκο Ντισνευλαντ</string>
+    <string name="LOCF8">https://www.google.com/maps/place/%CE%9D%CF%84%CE%AF%CF%83%CE%BD%CE%B5%CF%8B%CE%BB%CE%B1%CE%BD%CF%84+%CF%84%CE%BF%CF%85+%CE%A0%CE%B1%CF%81%CE%B9%CF%83%CE%B9%CE%BF%CF%8D/@48.8672384,2.7841202,13z/data=!4m5!3m4!1s0x0:0x57faf8cb6310e660!8m2!3d48.8615639!4d2.7911583</string>
+
+    <string name="LOCF9">Λυών</string>
+    <string name="LOCF10">https://www.google.com/maps/place/%CE%9B%CE%B9%CF%8C%CE%BD,+%CE%93%CE%B1%CE%BB%CE%BB%CE%AF%CE%B1/@45.7579341,4.7650812,12z/data=!3m1!4b1!4m5!3m4!1s0x47f4ea516ae88797:0x408ab2ae4bb21f0!8m2!3d45.764043!4d4.835659</string>
+
+    <string name="LOCF11">Νίκαια</string>
+    <string name="LOCF12">https://www.google.com/maps/place/%CE%9D%CE%AF%CE%BA%CE%B1%CE%B9%CE%B1,+%CE%93%CE%B1%CE%BB%CE%BB%CE%AF%CE%B1/@43.7031691,7.1827772,12z/data=!3m1!4b1!4m5!3m4!1s0x12cdd0106a852d31:0x40819a5fd979a70!8m2!3d43.7101728!4d7.2619532</string>
+
+    <string name="LOCF13">Biarritz</string>
+    <string name="LOCF14">https://www.google.com/maps/place/64200+%CE%9C%CF%80%CE%B9%CE%B1%CF%81%CE%AF%CF%84%CE%B6,+%CE%93%CE%B1%CE%BB%CE%BB%CE%AF%CE%B1/@43.4709757,-1.5908121,13z/data=!3m1!4b1!4m5!3m4!1s0xd51152b0af31e33:0x40665174813a830!8m2!3d43.4831519!4d-1.558626</string>
+
+    <string name="LOCF15">Champagne</string>
+    <string name="LOCF16">https://www.google.com/maps/place/72470+Champagn%C3%A9,+%CE%93%CE%B1%CE%BB%CE%BB%CE%AF%CE%B1/@48.0158641,0.3013149,13z/data=!3m1!4b1!4m5!3m4!1s0x47e2f4b471b0998d:0x40d37521e0acdf0!8m2!3d48.026628!4d0.333235</string>
+
+    <string name="LOCF17">Chamonix - Mont - Blanc</string>
+    <string name="LOCF18">https://www.google.com/maps/place/74400+%CE%A3%CE%B1%CE%BC%CE%BF%CE%BD%CE%AF,+%CE%93%CE%B1%CE%BB%CE%BB%CE%AF%CE%B1/@45.9319777,6.7888749,11z/data=!3m1!4b1!4m5!3m4!1s0x47894c062dfe2ee7:0x408ab2ae4baa380!8m2!3d45.923697!4d6.869433</string>
+
+    <string name="LOCF19">Κοιλάδα του Λίγηρα</string>
+    <string name="LOCF20">https://www.google.com/maps/place/Loire+Valley,+%CE%93%CE%B1%CE%BB%CE%BB%CE%AF%CE%B1/@47.5630311,-0.4262505,8z/data=!3m1!4b1!4m5!3m4!1s0x47fd31c40ddaa889:0xd49789bfb849e842!8m2!3d47.5532402!4d1.0105289</string>
+
+    //locations_FRA
+
+    <string name="LOCI1">Κολοσσαίο</string>
+    <string name="LOCI2">https://www.google.com/maps/place/%CE%9A%CE%BF%CE%BB%CE%BF%CF%83%CF%83%CE%B1%CE%AF%CE%BF/@41.8902102,12.4922309,15z/data=!4m5!3m4!1s0x0:0x28f1c82e908503c4!8m2!3d41.8902102!4d12.4922309</string>
+
+    <string name="LOCI3">Πάνθεον</string>
+    <string name="LOCI4">https://www.google.com/maps/place/%CE%A0%CE%AC%CE%BD%CE%B8%CE%B5%CE%BF%CE%BD/@41.8986108,12.4746842,17z/data=!3m1!4b1!4m5!3m4!1s0x132f604f678640a9:0xcad165fa2036ce2c!8m2!3d41.8986108!4d12.4768729</string>
+
+    <string name="LOCI5">Φοντάνα ντι Τρέβι</string>
+    <string name="LOCI6">https://www.google.com/maps/place/%CE%A6%CE%BF%CE%BD%CF%84%CE%AC%CE%BD%CE%B1+%CE%BD%CF%84%CE%B9+%CE%A4%CF%81%CE%AD%CE%B2%CE%B9/@41.9010333,12.4810843,17z/data=!3m1!4b1!4m5!3m4!1s0x132f6053278340d5:0xf676f1e1cc02bbb6!8m2!3d41.9009325!4d12.483313</string>
+
+    <string name="LOCI7">Βατικανό</string>
+    <string name="LOCI8">https://www.google.com/maps/place/00120+Vatican+City,+%CE%92%CE%B1%CF%84%CE%B9%CE%BA%CE%B1%CE%BD%CF%8C/@41.9038163,12.4476838,16z/data=!4m5!3m4!1s0x1325890a57d42d3d:0x94f9ab23a7eb0!8m2!3d41.902916!4d12.453389</string>
+
+    <string name="LOCI9">Φλωρεντία</string>
+    <string name="LOCI10">https://www.google.com/maps/place/%CE%A6%CE%BB%CF%89%CF%81%CE%B5%CE%BD%CF%84%CE%AF%CE%B1,+%CE%99%CF%84%CE%B1%CE%BB%CE%AF%CE%B1/@43.7799368,11.1709281,12z/data=!3m1!4b1!4m5!3m4!1s0x132a56a680d2d6ad:0x93d57917efc72a03!8m2!3d43.7695604!4d11.2558136</string>
+
+    <string name="LOCI11">Πίζα</string>
+    <string name="LOCI12">https://www.google.com/maps/place/%CE%A0%CE%AF%CE%B6%CE%B1,+%CE%99%CF%84%CE%B1%CE%BB%CE%AF%CE%B1/@43.7067293,10.3253383,12z/data=!3m1!4b1!4m5!3m4!1s0x12d5919af0f6598f:0xaab80fb5a78478c8!8m2!3d43.7228386!4d10.4016888</string>
+
+    <string name="LOCI13">Σικελία</string>
+    <string name="LOCI14">https://www.google.com/maps/place/%CE%A3%CE%B9%CE%BA%CE%B5%CE%BB%CE%AF%CE%B1,+%CE%99%CF%84%CE%B1%CE%BB%CE%AF%CE%B1/@37.1307229,11.5456537,7z/data=!3m1!4b1!4m5!3m4!1s0x13106268d05359b3:0x10b042967b67d50!8m2!3d37.5999938!4d14.0153557</string>
+
+    <string name="LOCI15">Βενετία</string>
+    <string name="LOCI16">https://www.google.com/maps/place/%CE%92%CE%B5%CE%BD%CE%B5%CF%84%CE%AF%CE%B1,+%CE%99%CF%84%CE%B1%CE%BB%CE%AF%CE%B1/@45.4042008,12.1071511,10z/data=!3m1!4b1!4m5!3m4!1s0x477eb1daf1d63d89:0x7ba3c6f0bd92102f!8m2!3d45.4408474!4d12.3155151</string>
+
+    <string name="LOCI17">Βερόνα</string>
+    <string name="LOCI18">https://www.google.com/maps/place/%CE%92%CE%B5%CF%81%CF%8C%CE%BD%CE%B1,+%CE%99%CF%84%CE%B1%CE%BB%CE%AF%CE%B1/@45.4262289,10.9224915,12z/data=!3m1!4b1!4m5!3m4!1s0x477f5f68699be0e3:0x53f85a636882595b!8m2!3d45.4383842!4d10.9916215</string>
+
+    <string name="LOCI19">Νάπολη</string>
+    <string name="LOCI20">https://www.google.com/maps/place/%CE%9D%CE%AC%CF%80%CE%BF%CE%BB%CE%B7,+%CE%99%CF%84%CE%B1%CE%BB%CE%AF%CE%B1/data=!4m2!3m1!1s0x133b084f6a6c7e99:0x3df52cc13b78191d?sa=X&amp;ved=2ahUKEwj-_-Lez7nqAhUSzqQKHUdTCloQ8gEwFHoECBUQBg</string>
+
+    //important_locations_ENG
+
+    <string name="ILOCE1">Διεθνές Αεροδρόμιο Στάνστεντ Λονδίνο</string>
+    <string name="ILOCE2">https://www.google.com/maps/place/%CE%94%CE%B9%CE%B5%CE%B8%CE%BD%CE%AD%CF%82+%CE%91%CE%B5%CF%81%CE%BF%CE%B4%CF%81%CF%8C%CE%BC%CE%B9%CE%BF+%CE%A3%CF%84%CE%AC%CE%BD%CF%83%CF%84%CE%B5%CE%BD%CF%84/@51.8776826,-0.9438425,8z/data=!4m5!3m4!1s0x487604b8a52a1bb7:0x30a4d0976b352648!8m2!3d51.8860181!4d0.2388661</string>
+
+    <string name="ILOCE3">Διεθνές Αεροδρόμιο Χίθροου Λονδίνο</string>
+    <string name="ILOCE4">https://www.google.com/maps/place/%CE%94%CE%B9%CE%B5%CE%B8%CE%BD%CE%AD%CF%82+%CE%91%CE%B5%CF%81%CE%BF%CE%B4%CF%81%CF%8C%CE%BC%CE%B9%CE%BF+%CE%A7%CE%AF%CE%B8%CF%81%CE%BF%CE%BF%CF%85/@51.6081082,-0.5683725,9.75z/data=!4m5!3m4!1s0x48767234cdc56de9:0x8fe7535543f64167!8m2!3d51.4700223!4d-0.4542955</string>
+
+    <string name="ILOCE5">Αεροδρόμιο Λίβερπουλ</string>
+    <string name="ILOCE6">https://www.google.com/maps/place/Liverpool+John+Lennon+Airport/@53.3411319,-3.0675796,10z/data=!4m5!3m4!1s0x487ae040a0b71767:0x62cb025e20649746!8m2!3d53.3358627!4d-2.8550475</string>
+
+    <string name="ILOCE7">Αεροδρόμιο Μάντσεστερ</string>
+    <string name="ILOCE8">https://www.google.com/maps/place/Manchester+Airport/@53.3588026,-2.274919,17z/data=!3m1!4b1!4m5!3m4!1s0x487a52c0dfd893c5:0x8b0b8247e5e4a5e0!8m2!3d53.3588026!4d-2.2727303</string>
+
+    <string name="ILOCE9">Διεθνές Αεροδρόμιο Νιουκάσλ</string>
+    <string name="ILOCE10">https://www.google.com/maps/place/%CE%94%CE%B9%CE%B5%CE%B8%CE%BD%CE%AD%CF%82+%CE%91%CE%B5%CF%81%CE%BF%CE%B4%CF%81%CF%8C%CE%BC%CE%B9%CE%BF+%CE%9D%CE%B9%CE%BF%CF%85%CE%BA%CE%AC%CF%83%CE%BB/@55.0433827,-1.7397872,12.5z/data=!4m5!3m4!1s0x487e767809b133b5:0xdcf4b2895d1c4746!8m2!3d55.0374478!4d-1.7098663</string>
+
+    <string name="ILOCE11">Νοσοκομείο Σεντ Τόμας Λονδίνο</string>
+    <string name="ILOCE12">https://www.google.com/maps/place/%CE%9D%CE%BF%CF%83%CE%BF%CE%BA%CE%BF%CE%BC%CE%B5%CE%AF%CE%BF+%CE%A3%CE%B5%CE%BD%CF%84+%CE%A4%CF%8C%CE%BC%CE%B1%CF%82/@51.4990946,-0.1188545,15z/data=!4m2!3m1!1s0x0:0x43c4966ccbc12d1?sa=X&amp;ved=2ahUKEwjLnI25qrvqAhXvwqYKHSVXBMEQ_BIwCnoECBoQCA</string>
+
+    <string name="ILOCE13">Νοσοκομείο Royal Infirmary Μάντσεστερ</string>
+    <string name="ILOCE14">https://www.google.com/search?client=firefox-b-d&amp;channel=trow2&amp;tbm=lcl&amp;sxsrf=ALeKk03L7AXwj4JZc5iMyi5ATduxhQar7Q%3A1594131510471&amp;ei=NoQEX8u-HPeIk74Po-mp-AU&amp;q=Manchester+Royal+Infirmary&amp;oq=Manchester+Royal+Infirmary&amp;gs_l=psy-ab.3..0j0i203k1l9.15099.15099.0.15465.1.1.0.0.0.0.243.243.2-1.1.0....0...1c.2.64.psy-ab..0.1.243....0.I2tRpwSjwMc#rlfi=hd:;si:;mv:[[53.466562627669134,-2.2172145151443434],[53.45998372603322,-2.2350672983474684],null,[53.463273304290404,-2.226140906745906],16]</string>
+
+    <string name="ILOCE15">Πρεσβεία της Ελλάδος στο Λονδίνο</string>
+    <string name="ILOCE16">https://www.google.com/maps/place/%CE%A0%CF%81%CE%B5%CF%83%CE%B2%CE%B5%CE%AF%CE%B1+%CF%84%CE%B7%CF%82+%CE%95%CE%BB%CE%BB%CE%AC%CE%B4%CE%B1%CF%82/@51.5054769,-0.2045282,15z/data=!4m5!3m4!1s0x0:0xfab8db0e950dd56c!8m2!3d51.5054769!4d-0.2045282</string>
+
+    //important_locations_FRA
+
+    <string name="ILOCF1">Διεθνές Αεροδρόμιο Παρισιού</string>
+    <string name="ILOCF2">https://www.google.com/search?client=firefox-b-d&amp;channel=trow2&amp;tbm=lcl&amp;sxsrf=ALeKk02ZW_os0oisgQ1w4H7PdcfS-I_nTQ%3A1594132597697&amp;ei=dYgEX92BKo6vkwWc1qWwDw&amp;q=%CE%B1%CE%B5%CF%81%CE%BF%CE%B4%CF%81%CE%BF%CE%BC%CE%B9%CE%BF+%CF%80%CE%B1%CF%81%CE%B9%CF%83%CE%B9&amp;oq=%CE%B1%CE%B5%CF%81%CE%BF%CE%B4%CF%81%CE%BF%CE%BC%CE%B9%CE%BF+%CF%80%CE%B1%CF%81%CE%B9%CF%83%CE%B9&amp;gs_l=psy-ab.3..0l5j0i22i30k1l5.293329.302675.0.303308.30.26.3.0.0.0.206.3141.0j14j4.19.0....0...1c.1.64.psy-ab..9.21.3249.10..35i362i39k1j35i39k1j0i433i131k1j0i433k1j0i10k1j0i67k1j0i433i131i67k1.235.RVVjpVZElzc#rlfi=hd:;si:;mv:[[49.009870577319035,2.5481988843736203],[49.00951062268097,2.547650115626378]]</string>
+
+    <string name="ILOCF3">Αεροδρόμιο Ορλί</string>
+    <string name="ILOCF4">https://www.google.com/search?client=firefox-b-d&amp;channel=trow2&amp;tbm=lcl&amp;sxsrf=ALeKk02fVChonrMVnCNsoKGfaV8fypUHjA%3A1594133014098&amp;ei=FooEX6-zBenIrgTrgJbYCA&amp;q=%CE%B1%CE%B5%CF%81%CE%BF%CE%B4%CF%81%CE%BF%CE%BC%CE%B9%CE%BF+%CE%BF%CF%81%CE%BB%CE%B9&amp;oq=%CE%B1%CE%B5%CF%81%CE%BF%CE%B4%CF%81%CE%BF%CE%BC%CE%B9%CE%BF+%CE%BF%CF%81&amp;gs_l=psy-ab.3.0.0l3j0i22i30k1l7.2143.3195.0.4482.4.4.0.0.0.0.206.394.0j1j1.2.0....0...1c..64.psy-ab..2.2.392...0i13i30k1j0i13i10i30k1j0i8i13i30k1.0.ncubPgfwd40#rlfi=hd:;si:;mv:[[48.72642327731903,2.3655200344939513],[48.726063322680965,2.3649743655060473]]</string>
+
+    <string name="ILOCF5">Νοσοκομείο Σαλπετριέρ Παρίσι</string>
+    <string name="ILOCF6">https://www.google.com/search?client=firefox-b-d&amp;channel=trow2&amp;tbm=lcl&amp;sxsrf=ALeKk02yYPwel0jdYZ71SXS87Zr9aOWe0A%3A1594133104740&amp;ei=cIoEX4fNLMznrgTZz66IDQ&amp;q=%CE%9D%CE%BF%CF%83%CE%BF%CE%BA%CE%BF%CE%BC%CE%B5%CE%AF%CE%BF+%CE%A3%CE%B1%CE%BB%CF%80%CE%B5%CF%84%CF%81%CE%B9%CE%AD%CF%81&amp;oq=%CE%9D%CE%BF%CF%83%CE%BF%CE%BA%CE%BF%CE%BC%CE%B5%CE%AF%CE%BF+%CE%A3%CE%B1%CE%BB%CF%80%CE%B5%CF%84%CF%81%CE%B9%CE%AD%CF%81&amp;gs_l=psy-ab.3..33i160k1l3.18638.18638.0.19130.1.1.0.0.0.0.238.238.2-1.1.0....0...1c.1.64.psy-ab..0.1.237....0.d9lJWqqKYlQ#rlfi=hd:;si:8220819443820797262;mv:[[48.837259177319034,2.3653163376549258],[48.83689922268097,2.3647694623450732]]</string>
+
+    <string name="ILOCF7">Νοσοκομείο La Croix-Rousse Λυών</string>
+    <string name="ILOCF8">https://www.google.com/maps/place/Hospital+La+Croix-Rousse+-+HCL/@45.7818414,4.8308236,15z/data=!4m2!3m1!1s0x0:0xa3768d3581dce9ae?sa=X&amp;ved=2ahUKEwjzz6jGsbvqAhXLCuwKHZieDSMQ_BIwE3oECBIQCA</string>
+
+    <string name="ILOCF9">Αεροδρόμιο Σαιντ Εξυπερύ Λυών</string>
+    <string name="ILOCF10">https://www.google.com/maps/place/%CE%91%CE%B5%CF%81%CE%BF%CE%B4%CF%81%CF%8C%CE%BC%CE%B9%CE%BF+%CE%A3%CE%B1%CE%B9%CE%BD%CF%84+%CE%95%CE%BE%CF%85%CF%80%CE%B5%CF%81%CF%8D+%CF%84%CE%B7%CF%82+%CE%9B%CF%85%CF%8E%CE%BD/@45.7234181,5.0887768,15z/data=!4m5!3m4!1s0x0:0x86dc510cc9b255f0!8m2!3d45.7234181!4d5.0887768</string>
+
+    <string name="ILOCF11">Αεροδρόμιο Κυανής Ακτής Νίκαια</string>
+    <string name="ILOCF12">https://www.google.com/maps/place/%CE%94%CE%B9%CE%B5%CE%B8%CE%BD%CE%AD%CF%82+%CE%91%CE%B5%CF%81%CE%BF%CE%B4%CF%81%CF%8C%CE%BC%CE%B9%CE%BF+%CE%9A%CF%85%CE%B1%CE%BD%CE%AE%CF%82+%CE%91%CE%BA%CF%84%CE%AE%CF%82/@43.6597689,7.2148214,15z/data=!4m5!3m4!1s0x0:0x80532b1cc923c1b4!8m2!3d43.6597689!4d7.2148214</string>
+
+    <string name="ILOCF13">Νοσοκομείο Νίκαια</string>
+    <string name="ILOCF14">https://www.google.com/search?client=firefox-b-d&amp;channel=trow2&amp;tbm=lcl&amp;sxsrf=ALeKk02Zl40fS-QAePKA4K6HnFr7XfCTPQ%3A1594133639218&amp;ei=h4wEX9ryDOj1qwHWh6cQ&amp;q=Hospital+Pasteur&amp;oq=Hospital+Pasteur&amp;gs_l=psy-ab.3..0i203k1l8j0i22i30k1l2.5618.5618.0.5830.1.1.0.0.0.0.177.177.0j1.1.0....0...1c.2.64.psy-ab..0.1.177....0.VHBUBdpzpHs#rlfi=hd:;si:737615219937812742;mv:[[48.07502879045556,16.51675015296931],[40.95986057534581,-1.7644998470306916],null,[44.62632424272792,7.376125152969308],6]</string>
+
+    <string name="ILOCF15">Πρεσβεία της Ελλάδας στην Γαλλία</string>
+    <string name="ILOCF16">https://www.google.com/maps/place/Embassy+of+Greece/@48.869846,2.294736,15z/data=!4m5!3m4!1s0x0:0x534071bcee5a362d!8m2!3d48.869846!4d2.294736</string>
+
+    //important_locations_IT
+
+    <string name="ILOCI1">Αεροδρόμιο Ρώμης</string>
+    <string name="ILOCI2">https://www.google.com/maps/place/%CE%91%CE%B5%CF%81%CE%BF%CE%B4%CF%81%CF%8C%CE%BC%CE%B9%CE%BF+%CF%84%CE%B7%CF%82+%CE%A1%CF%8E%CE%BC%CE%B7%CF%82-%CE%A6%CE%B9%CE%BF%CF%85%CE%BC%CE%B9%CF%84%CF%83%CE%AF%CE%BD%CE%BF/@41.7966393,12.2738462,11.5z/data=!4m5!3m4!1s0x0:0xafe513b4e358316f!8m2!3d41.7998868!4d12.2462384?hl=el</string>
+
+    <string name="ILOCI3">Νοσοκομείο Ρώμη</string>
+    <string name="ILOCI4">https://www.google.com/maps/place/San+Giovanni+Addolorata+Hospital/@41.88565,12.5024132,15z/data=!4m5!3m4!1s0x0:0x5d2e0f8edc31d02a!8m2!3d41.88565!4d12.5024132</string>
+
+    <string name="ILOCI5">Διεθνές Αεροδρόμιο Μιλάνου</string>
+    <string name="ILOCI6">https://www.google.com/maps/place/%CE%94%CE%B9%CE%B5%CE%B8%CE%BD%CE%AD%CF%82+%CE%91%CE%B5%CF%81%CE%BF%CE%B4%CF%81%CF%8C%CE%BC%CE%B9%CE%BF+%CE%9C%CE%B1%CE%BB%CF%80%CE%AD%CE%BD%CF%83%CE%B1/@45.6300625,8.7255307,15z/data=!4m5!3m4!1s0x0:0xa3f10a57a0c77efe!8m2!3d45.6300625!4d8.7255307</string>
+
+    <string name="ILOCI7">Νοσοκομείο Μιλάνο</string>
+    <string name="ILOCI8">https://www.google.com/maps/place/Policlinico+of+Milan/@45.4767254,9.1198435,12z/data=!4m8!1m2!2m1!1zzrzOuc67zrHOvc6_IM69zr_Pg86_zrrOv868zrXOuc6_!3m4!1s0x4786c6a7bbc71af5:0xa2a630ac051aac71!8m2!3d45.458872!4d9.1950515</string>
+
+    <string name="ILOCI9">Αεροδρόμιο Βερόνας</string>
+    <string name="ILOCI10">https://www.google.com/maps/place/Valerio+Catullo+Airport/@45.4000011,10.8901406,15z/data=!4m5!3m4!1s0x0:0x3b4cc3ee18227c2c!8m2!3d45.4000011!4d10.8901406</string>
+
+    <string name="ILOCI11">Διεθνές Αεροδρόμιο Νάπολης</string>
+    <string name="ILOCI12">https://www.google.com/maps/place/%CE%94%CE%B9%CE%B5%CE%B8%CE%BD%CE%AD%CF%82+%CE%91%CE%B5%CF%81%CE%BF%CE%B4%CF%81%CF%8C%CE%BC%CE%B9%CE%BF+%CE%9D%CE%AC%CF%80%CE%BF%CE%BB%CE%B7%CF%82/@40.8847493,14.289243,15z/data=!4m5!3m4!1s0x0:0xbf48c58ba6c9356d!8m2!3d40.8847493!4d14.289243</string>
+
+    <string name="ILOCI13">Νοσοκομείο Νάπολη</string>
+    <string name="ILOCI14">https://www.google.com/search?client=firefox-b-d&amp;channel=trow2&amp;biw=1252&amp;bih=600&amp;tbm=lcl&amp;sxsrf=ALeKk03LjSHLz8Rk4czCcdigWDgq64XiLQ%3A1594235722998&amp;ei=ShsGX-OzPLSp1fAPk5S7yA4&amp;q=Pilgrims%27+Hospital&amp;oq=Pilgrims%27+Hospital&amp;gs_l=psy-ab.3..0i22i30k1l5j0i22i10i30k1l2j0i22i30k1l3.7709.7709.0.8049.1.1.0.0.0.0.198.198.0j1.1.0....0...1c.1.64.psy-ab..0.1.197....0.COLVyKUyjbE#rlfi=hd:;si:8539499884475920632;mv:[[52.990951877319034,-0.010348706363676442],[52.99059192268097,-0.010946693636323558]]</string>
+
+    <string name="ILOCI15">Πρεσβεία της Ελλάδος στη Ρώμη</string>
+    <string name="ILOCI16">https://www.google.com/maps/place/%CE%A0%CF%81%CE%B5%CF%83%CE%B2%CE%B5%CE%AF%CE%B1+%CF%84%CE%B7%CF%82+%CE%95%CE%BB%CE%BB%CE%AC%CE%B4%CE%BF%CF%82+%CF%83%CF%84%CE%B7+%CE%A1%CF%8E%CE%BC%CE%B7/@41.9193094,12.4886431,17z/data=!4m13!1m7!3m6!1s0x132f611b79dd8361:0x3c38050d02e39032!2zVmlhbGUgR2lvYWNjaGlubyBSb3NzaW5pLCA0LCAwMDE5OCBSb21hIFJNLCDOmc-EzrHOu86vzrE!3b1!8m2!3d41.9193094!4d12.4908318!3m4!1s0x132f611b7058e82f:0xbca6ee143f45011a!8m2!3d41.9191118!4d12.4907498</string>
+
+
+    //Phones_ENG
+    <string name="PHE1">Επείγον</string>
+    <string name="PHE2">999</string>
+
+    <string name="PHE3">Πρεσβεία της Ελλάδος</string>
+    <string name="PHE4">+442072293850</string>
+
+    <string name="PHE5">Πρεσβεία της Ελλάδος \n εκτάκτου ανάγκης</string>
+    <string name="PHE6">+447795961519</string>
+
+    <string name="PHE7">Ταξί Λονδίνο</string>
+    <string name="PHE8">+441895540595</string>
+
+    <string name="PHE9">Ταξί Μάντσεστερ</string>
+    <string name="PHE10">+441618500500</string>
+
+    <string name="PHE11">Ταξί Λίβερπουλ</string>
+    <string name="PHE12">+447949192241</string>
+
+    <string name="PHE13">Ταξί Νιούκαστλ</string>
+    <string name="PHE14">+441912220222</string>
+
+    //Phones_FRA
+
+    <string name="PHF1">Επείγον</string>
+    <string name="PHF2">112</string>
+
+    <string name="PHF3">Πρεσβεία της Ελλάδας</string>
+    <string name="PHF4">+33147237228</string>
+
+    <string name="PHF5">Ταξί Παρίσι</string>
+    <string name="PHF6">+33977217272</string>
+
+    <string name="PHF7">Ταξί Λυών</string>
+    <string name="PHF8">+33472108686</string>
+
+    <string name="PHF9">Ταξί Νίκαια</string>
+    <string name="PHF10">+33610821171</string>
+
+    //Phones_IT
+
+    <string name="PHI1">Επείγον</string>
+    <string name="PHI2">112</string>
+
+    <string name="PHI3">Πρεσβεία της Ελλάδας</string>
+    <string name="PHI4">+39068537551</string>
+
+    <string name="PHI5">Ταξί Ρώμη</string>
+    <string name="PHI6">+393202685654</string>
+
+    <string name="PHI7">Ταξί Μιλάνο</string>
+    <string name="PHI8">+39026969</string>
+
+    <string name="PHI9">Ταξί Νάπολη</string>
+    <string name="PHI10">+393892629393</string>
+
+    <string name="PHI11">Ταξί Βερόνα</string>
+    <string name="PHI12">+39045532666</string>
+
+
+    <string name="sthn_polh_eng">Στην Πόλη</string>
+    <string name="fthanontas_ston_proorismo_eng">Φθάνοντας</string>
+    <string name="estiatorio_eng">Εστιατόριο</string>
+    <string name="katstima_eng">Κατάστημα</string>
+    <string name="aerodromio_eng">Αεροδρόμιο</string>
+    <string name="hotel_eng">Ξενοδοχείο</string>
+    <string name="provlimata_eng">Προβλήματα</string>
+    <string name="xeretismoi_eng">Χαιρετισμοί</string>
+</resources>
